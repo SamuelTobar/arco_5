@@ -1,2 +1,1 @@
-# arco_5
-samuel_tobar
+# Plantilla del proyecto 26
